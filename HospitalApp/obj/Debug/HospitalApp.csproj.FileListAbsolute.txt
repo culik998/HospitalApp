@@ -1,0 +1,16 @@
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\bin\Debug\HospitalApp.exe.config
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\bin\Debug\HospitalApp.exe
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\bin\Debug\HospitalApp.pdb
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.MainForm.resources
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Properties.Resources.resources
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.GenerateResource.Cache
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.exe
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\bin\Debug\EntityFramework.dll
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\bin\Debug\EntityFramework.xml
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.RegisterForm.resources
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.csprojResolveAssemblyReference.cache
+C:\Users\SuleymanSHs\source\repos\HospitalApp\HospitalApp\obj\Debug\HospitalApp.LoginForm.resources
